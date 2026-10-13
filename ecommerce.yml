@@ -1,6 +1,6 @@
-token:
-  expiration_time: 8640000 # 1day
-  secret: this is a default secret from config bus
+# token:
+#   expiration_time: 8640000 # 1day
+#   secret: this is a default secret from config bus
 
 gateway:
   ip: 192.168.0.100 # 테스트용 임의값
